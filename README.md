@@ -5,7 +5,7 @@ Schema-first GraphQL Mock API with easygraphql-mock and json-graphql-server.
 ## How to use
 
 Just define your schemas under the schema folder and start the application.
-If you need to generate new data just delete the "data.json" file under "src/mock";
+If you need to generate new data just delete the "data.json" file under "src/mock".
 
 ## Scripts
 
