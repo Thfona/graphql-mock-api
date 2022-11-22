@@ -1,7 +1,7 @@
 {
   "name": "graphql-mock-api",
   "version": "1.0.0",
-  "description": "Schema-first GraphQL Mock API with easygraphql-mock and json-graphql-server.",
+  "description": "GraphQL Mock API with easygraphql-mock and json-graphql-server.",
   "author": "Thfona",
   "license": "MIT",
   "private": true,
