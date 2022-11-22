@@ -1,6 +1,6 @@
 # GraphQL Mock API
 
-Schema-first GraphQL Mock API with easygraphql-mock and json-graphql-server. For development purposes only.
+GraphQL Mock API with easygraphql-mock and json-graphql-server. For development purposes only.
 
 ## How to use
 
