@@ -12,6 +12,9 @@
     "prettier": "prettier --config ./.prettierrc --check \"./**/*.{ts,tsx,js,jsx,json,md,css,scss}\"",
     "prettier:fix": "prettier --config ./.prettierrc --check \"./**/*.{ts,tsx,js,jsx,json,md,css,scss}\" --write"
   },
+  "pre-commit": [
+    "lint"
+  ],
   "dependencies": {
     "cors": "2.8.5",
     "easygraphql-mock": "0.1.17",
@@ -22,6 +25,7 @@
   "devDependencies": {
     "eslint": "8.5.0",
     "nodemon": "2.0.15",
+    "pre-commit": "1.2.2",
     "prettier": "2.5.1"
   }
 }
