@@ -63,4 +63,5 @@ testem.log*
 *.pnp.*
 .yarn-integrity
 .env
+*/mock
 package-lock.json
