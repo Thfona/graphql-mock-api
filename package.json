@@ -16,16 +16,16 @@
     "lint"
   ],
   "dependencies": {
-    "cors": "2.8.5",
-    "easygraphql-mock": "0.1.17",
-    "express": "4.17.2",
-    "json-graphql-server": "2.2.3",
-    "pluralize": "8.0.0"
+    "cors": "^2.8.5",
+    "easygraphql-mock": "^0.1.17",
+    "express": "^4.17.2",
+    "json-graphql-server": "^2.2.3",
+    "pluralize": "^8.0.0"
   },
   "devDependencies": {
-    "eslint": "8.5.0",
-    "nodemon": "2.0.15",
-    "pre-commit": "1.2.2",
-    "prettier": "2.5.1"
+    "eslint": "^8.5.0",
+    "nodemon": "^3.0.1",
+    "pre-commit": "^1.2.2",
+    "prettier": "^2.5.1"
   }
 }
